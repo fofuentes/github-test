@@ -1,1 +1,5 @@
+<<<<<<< HEAD
+This is just a test on master.
+=======
 This is just a test firstbranch.
+>>>>>>> firstbranch

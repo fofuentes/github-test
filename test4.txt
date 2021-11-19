@@ -1,1 +1,5 @@
+<<<<<<< HEAD
+This is test4 on master.
+=======
 This is test4 firstbranch.
+>>>>>>> firstbranch
